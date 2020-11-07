@@ -1,0 +1,13 @@
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\bin\Debug\netcoreapp3.1\FacadeMethod.exe
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\bin\Debug\netcoreapp3.1\FacadeMethod.deps.json
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\bin\Debug\netcoreapp3.1\FacadeMethod.runtimeconfig.json
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\bin\Debug\netcoreapp3.1\FacadeMethod.runtimeconfig.dev.json
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\bin\Debug\netcoreapp3.1\FacadeMethod.dll
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\bin\Debug\netcoreapp3.1\FacadeMethod.pdb
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.csprojAssemblyReference.cache
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.AssemblyInfoInputs.cache
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.AssemblyInfo.cs
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.csproj.CoreCompileInputs.cache
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.dll
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.pdb
+D:\catolica-II-2020\arqui\patrones\FacadeMethod\FacadeMethod\FacadeMethod\obj\Debug\netcoreapp3.1\FacadeMethod.genruntimeconfig.cache
